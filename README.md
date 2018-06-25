@@ -43,15 +43,14 @@ It consists of three part
 
 -   to start your shadowsocksr service, you should run these bash command below in shadowsocksr-manyuser/shadowsocks
     
-    for server:
-    ```bash
-    python server.py -c shadowsocks.json
-    ```
-    For client:
-    ```bash
-    python local.py -c shadowsocks.json
-    ```
+    -   for server:
+        ```bash
+        python server.py -c shadowsocks.json
+        ```
+    -   for client:
+        ```bash
+        python local.py -c shadowsocks.json
+        ```
     
-
 
 PS: please forgive my awful English.
