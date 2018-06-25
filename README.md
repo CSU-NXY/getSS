@@ -20,7 +20,7 @@ It consists of three part
         ```json
         {
         "server_port":"8300",
-        "password":"my_awesome_password",   // you can set your password as you like
+        "password":"my_awesome_password",   
         "method":"aes-256-cfb",
         "protocol":"auth_aes128_md5",
         "obfs":"plain"
