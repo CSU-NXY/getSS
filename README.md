@@ -1,6 +1,6 @@
 # getSS
 
-`getSS.sh` is a bash file written for Ubuntu users(especially myselfy) to automatically deploy [shadowsocksr](https://github.com/liyue80/shadowsocksr-manyuser) on your server or client.
+`getSS.sh` is a bash file written for Ubuntu users(especially myself) to automatically deploy [shadowsocksr](https://github.com/liyue80/shadowsocksr-manyuser) on your server or client.
 
 It consists of three part
 -   first, intall git on Ubuntu
